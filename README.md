@@ -1,5 +1,8 @@
-### 안녕하세요 ~ 👋
+<div align="center">
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=꿈꾸는개발자&fontSize=50)
+
+</div>
 <h3 align="center">📚 Tech Stack 📚</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
