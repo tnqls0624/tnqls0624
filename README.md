@@ -3,19 +3,23 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=0:92dcfc,100:4cc9ff&height=200&section=header&fontSize=50&text=Hello!&fontAlignY=-53&fontAlign=80&rotate=35&fontColor=FFFFFF)
 
 </div>
+
+<h3 align="center">👋 안녕하세요 꿈꾸는 개발자 이수빈이라고 합니다. </h3>
+<p align="center">NodeDeveloper</p>
 <h3 align="center">📚 Tech Stack 📚</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/NestJs-red?style=flat-square&logo=Nest&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Typescript-2496ED?style=flat-square&logo=Typecript&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Nest.js-red?style=flat-square&logo=Nest&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/TypeScript-2496ED?style=flat-square&logo=TypeScript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Koa-yellow?style=flat-square&logo=Koa&logoColor=white"/></a>&nbsp
   <br>
     <img src="https://img.shields.io/badge/HTML5-red?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/CSS3-red?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/React-2496ED?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/ReactNative-2496ED?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
   <br>
-  <img src="https://img.shields.io/badge/Mysql-skyblue?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Mysql-blue?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/MongoDB-339933?style=flat-square&logo=MongoDB&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/TypeOrm-purple?style=flat-square&logo=TypeOrm&logoColor=white"/></a>&nbsp
   <br>
