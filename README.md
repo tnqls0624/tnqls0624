@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=wave&color=0:92dcfc,100:4cc9ff&height=200&section=header&fontSize=50&text=Hello!&fontAlignY=-53&fontAlign=80&rotate=35&fontColor=FFFFFF)
 
 </div>
 <h3 align="center">📚 Tech Stack 📚</h3>
@@ -47,6 +47,6 @@
 </div>
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=92dcfc&height=200&section=footer)
 
 </div>
