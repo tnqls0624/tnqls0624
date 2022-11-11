@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=꿈꾸는개발자&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&fontSize=50)
 
 </div>
 <h3 align="center">📚 Tech Stack 📚</h3>
