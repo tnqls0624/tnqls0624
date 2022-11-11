@@ -27,8 +27,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Terraform-purple?style=flat-square&logo=Terraform&logoColor=white"/></a>&nbsp 
-  <br>
-  <br>
 </div>
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
@@ -36,8 +34,6 @@
   <a href="https://www.instagram.com/soobin0624/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/soobin0624/"/></a>&nbsp
   <a href="mailto:dktnqls0624@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dktnqls0624@gmail.com"/></a>
   <a href="https://soobindairy.tistory.com/"><img src="https://img.shields.io/badge/Tistory-E4405F?style=flat-square&logo=Tistory&logoColor=white&link=https://soobindairy.tistory.com/"></a>&nbsp
-  <br>
-  <br>	
 	
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
 	
