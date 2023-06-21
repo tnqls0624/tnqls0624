@@ -48,5 +48,4 @@
 <div align="center">
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=92dcfc&height=200&section=footer)
-
 </div>
