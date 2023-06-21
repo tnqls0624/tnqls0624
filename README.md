@@ -40,12 +40,6 @@
 </div>
 
 <div align="center">
-	
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tnqls0624&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tnqls0624&layout=compact&theme=tokyonight)
-
-</div>
-<div align="center">
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=92dcfc&height=200&section=footer)
 </div>
