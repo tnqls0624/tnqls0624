@@ -12,16 +12,15 @@
   <img src="https://img.shields.io/badge/Nest.js-red?style=flat-square&logo=Nest&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/TypeScript-2496ED?style=flat-square&logo=TypeScript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Koa-yellow?style=flat-square&logo=Koa&logoColor=white"/></a>&nbsp
   <br>
     <img src="https://img.shields.io/badge/HTML5-red?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/CSS3-red?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/React-2496ED?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
-    <img src="https://img.shields.io/badge/ReactNative-2496ED?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
   <br>
   <img src="https://img.shields.io/badge/Mysql-blue?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/MongoDB-339933?style=flat-square&logo=MongoDB&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/TypeOrm-purple?style=flat-square&logo=TypeOrm&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/TypeOrm-purple?style=flat-square&logo=TypeOrm&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Prisma-purple?style=flat-square&logo=TypeOrm&logoColor=white"/></a>&nbsp
   <br>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp 
