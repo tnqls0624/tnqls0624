@@ -5,13 +5,15 @@
 </div>
 
 <h3 align="center">👋 안녕하세요 꿈꾸는 개발자 이수빈이라고 합니다. </h3>
-<p align="center">NodeDeveloper</p>
+<p align="center">Developer</p>
 <h3 align="center">📚 Tech Stack 📚</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Nest.js-red?style=flat-square&logo=Nest&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/TypeScript-2496ED?style=flat-square&logo=TypeScript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/></a>&nbsp
+	  <img src="https://img.shields.io/badge/Spring-000000?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
+	  <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
   <br>
     <img src="https://img.shields.io/badge/HTML5-red?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/CSS3-red?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp
