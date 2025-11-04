@@ -8,27 +8,47 @@
 <p align="center">Developer</p>
 <h3 align="center">📚 Tech Stack 📚</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Nest.js-red?style=flat-square&logo=Nest&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/TypeScript-2496ED?style=flat-square&logo=TypeScript&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/></a>&nbsp
-	  <img src="https://img.shields.io/badge/Spring-339933?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
-	  <img src="https://img.shields.io/badge/Java-339933?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
-  <br>
-    <img src="https://img.shields.io/badge/HTML5-red?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/CSS3-red?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/React-2496ED?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
-  <br>
-  <img src="https://img.shields.io/badge/Mysql-blue?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/MongoDB-339933?style=flat-square&logo=MongoDB&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/TypeOrm-purple?style=flat-square&logo=TypeOrm&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Prisma-purple?style=flat-square&logo=TypeOrm&logoColor=white"/></a>&nbsp
-  <br>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Terraform-purple?style=flat-square&logo=Terraform&logoColor=white"/></a>&nbsp 
+
+<!-- Dev -->
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/NestJS-e0234e?style=flat&logo=nestjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white"/>
+<br/>
+
+<!-- Data -->
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeORM-FF6C37?style=flat&logo=typeorm&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white"/>
+<br/>
+
+<!-- Ops -->
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/NCP-03C75A?style=flat&logo=naver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/ArgoCD-FC6A03?style=flat&logo=argo&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tekton-EE0000?style=flat&logo=tekton&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white"/>
+<img src="https://img.shields.io/badge/Traefik-24A1C1?style=flat&logo=traefikproxy&logoColor=white"/>
+<br/>
+
+<!-- Obs -->
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white"/>
+<img src="https://img.shields.io/badge/Loki-0CA579?style=flat&logo=grafana&logoColor=white"/>
+<img src="https://img.shields.io/badge/Elastic-005571?style=flat&logo=elastic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sentry-362D59?style=flat&logo=sentry&logoColor=white"/>
+
 </div>
+
+---
+
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <div align="center">
